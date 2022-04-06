@@ -1,0 +1,1 @@
+Pour avoir un exemple de projet plus concret pour la partie "Extraction de texte", consulter le projet 'Dashboard_IA_et_MaladiesIncurables' qui met en avant une phase de scrapping, de création de base de données et de la réalisation d'un dashboard.
